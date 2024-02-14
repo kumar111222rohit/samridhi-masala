@@ -1,0 +1,13 @@
+{
+  "name": "Samridhi Mart",
+  "short_name": "SM",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/SM-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
